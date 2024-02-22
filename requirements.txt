@@ -1,0 +1,13 @@
+# To run the code you need to install the 'geopandas' Python library 
+
+# Open the terminal and type in the following command:
+pip3 install geopandas
+
+# Further instructions on how to install 'geopandas' can be found on the following website:
+https://geopandas.org/en/v0.4.0/install.html
+
+# Also make sure you have the following Python libraries installed:
+matplotlib
+pandas
+imageio
+plotly
